@@ -59,7 +59,7 @@ rclone copyto remote:"2024.04.07 Inter 18 - 04.mp4" /home/chamikara/Downloads/no
 
 ## SSH to aws
 
-ssh -i ./Documents/secrets/LightsailDefaultKey-ap-southeast-1.pem admin@54.151.140.126
+ssh -i /home/chamikara/Documents/secrets/LightsailDefaultKey-ap-southeast-1.pem admin@54.151.140.126
 
 
 ## nginx folder path

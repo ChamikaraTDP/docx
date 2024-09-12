@@ -1,16 +1,26 @@
 # Docker setup
 
+
+
 ## Things to remember
 
 - Remember that each container has its own IP address.
 - the container only starts one process
 - it's best to run your app in multiple containers.
 - While using env vars to set connection settings is generally accepted for development, it's highly discouraged when running applications in production.
+- Once a layer changes, all downstream layers have to be recreated as well.
+- A Dockerfile provides instructions to build a container image while a Compose file defines your running containers.
+
+
 
 
 ## Further reading
 
 - https://diogomonica.com/2017/03/27/why-you-shouldnt-use-env-variables-for-secret-data/
+- https://docs.docker.com/build/building/best-practices/
+- https://docs.docker.com/get-started/workshop/10_what_next/
+
+- https://landscape.cncf.io/
 
 
 ## installation 
@@ -37,6 +47,17 @@ https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository
 ```
 https://docs.docker.com/get-started/workshop/
 ```
+
+
+
+
+
+
+
+
+
+
+
 
 ## useful commands
 
@@ -174,6 +195,20 @@ docker logs -f <container-id>
 docker exec -it <mysql-container-id> command
 ```
 
+### see the command that was used to create each layer within an image.
+
+```
+docker image history --no-trunc getting-started
+```
+
+
+
+
+
+
+
+
+
 
 
 
@@ -248,6 +283,19 @@ docker run -dp 127.0.0.1:3000:3000 \
 ```
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Compose
 
 - The name will automatically become a network alias
@@ -311,4 +359,33 @@ By default, named volumes in your compose file are not removed, add ***--volumes
 
 ```
 docker compose down
+```
+
+
+
+
+
+
+
+
+
+
+
+## Multi-stage builds
+
+- https://docs.docker.com/get-started/workshop/09_image_best/ 
+
+
+```
+# syntax=docker/dockerfile:1
+FROM node:18 AS build
+WORKDIR /app
+COPY package* yarn.lock ./
+RUN yarn install
+COPY public ./public
+COPY src ./src
+RUN yarn run build
+
+FROM nginx:alpine
+COPY --from=build /app/build /usr/share/nginx/html
 ```
