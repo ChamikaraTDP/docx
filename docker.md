@@ -336,7 +336,7 @@ volumes:
 cd into app directory
 
 ```
-docker compose up -d
+sudo docker compose up -d
 ```
 
 ### to see logs
@@ -362,6 +362,19 @@ docker compose down
 ```
 
 
+### exec command on an interactive container session
+
+add these lines to compose.yml
+
+```
+stdin_open: true 
+tty: true
+```
+
+
+```
+sudo docker compose exec dryb sh
+```
 
 
 

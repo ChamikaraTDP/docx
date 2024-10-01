@@ -62,6 +62,10 @@ rclone copyto remote:"2024.04.07 Inter 18 - 04.mp4" /home/chamikara/Downloads/no
 ssh -i /home/chamikara/Documents/secrets/LightsailDefaultKey-ap-southeast-1.pem admin@54.151.140.126
 
 
+## edit symlink
+ln -sf php7.2 php
+
+
 ## nginx folder path
 /usr/share/nginx
 
@@ -69,5 +73,22 @@ ssh -i /home/chamikara/Documents/secrets/LightsailDefaultKey-ap-southeast-1.pem 
 /etc/nginx
 
 
-## edit symlink
-ln -sf php7.2 php
+# Certbot
+
+## install certbot
+
+### instructions
+https://certbot.eff.org/instructions?ws=nginx&os=snap&tab=standard
+
+sudo snap install --classic certbot
+
+## install certificate
+Run and follow the instructions
+
+sudo certbot --nginx
+
+
+
+
+
+
