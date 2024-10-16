@@ -52,3 +52,13 @@ edit php symlink on /usr/bin
 
 - sudo ln -sf php7.2 php
 
+
+## Docker php
+
+### image
+php:7.4-alpine
+
+### Install extensions
+docker-php-ext-install [ext]
+
+[php docker img](https://hub.docker.com/_/php)
