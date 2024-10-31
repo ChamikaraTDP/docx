@@ -61,10 +61,10 @@
 ### **Sujatha's Anthurium**
 
 - Website design using mobile first approach to made sure to utilize every screen size.
-- Timely and satisfing development using Next.js and Tailwindcss
+- Timely and satisfying development using Next.js and Tailwindcss
 - Improve site load times using image optimizations and static-site rendering.
 - Enhance site discoverability using search engine optimization techniques.
-- Nginx server setup and maintenance on AWS Vertual Private Server.
+- Nginx server setup and maintenance on AWS Virtual Private Server.
 - Making the plants and flowers much more appealing to visitors and boost sales with enhanced online presence.
 
 
@@ -82,7 +82,7 @@
 
 - Update and maintain computer society website
 - Produce designs and image content for flyers and magazines
-- Organize, deligate relavent tasks to society members
+- Organize, delegate relevant tasks to society members
 
 
 
