@@ -90,26 +90,14 @@
 ## **Skills**
 ---
 
+&nbsp;&nbsp;Typescript&nbsp;&nbsp; Javascript&nbsp;&nbsp; PHP &nbsp;&nbsp; React&nbsp;&nbsp;NodeJs&nbsp;&nbsp;React-Native&nbsp;&nbsp;Next.js&nbsp;&nbsp;NestJs&nbsp;&nbsp;Laravel
 
-### **Languages**
+&nbsp;&nbsp;Postgresql&nbsp;&nbsp;Mongodb&nbsp;&nbsp;Sqlite&nbsp;&nbsp;VPS servers (Microsoft Azure, AWS)
 
-&nbsp;&nbsp; Typescript&nbsp;&nbsp; Javascript&nbsp;&nbsp; PHP
-
-### **Frameworks**
-
-&nbsp;&nbsp;React&nbsp;&nbsp;NodeJs&nbsp;&nbsp;React-Native&nbsp;&nbsp;Next.js&nbsp;&nbsp;NestJs&nbsp;&nbsp;Laravel
-
-### **Databases**
-
-&nbsp;&nbsp;Postgresql&nbsp;&nbsp;Mongodb&nbsp;&nbsp;Sqlite
-
-### **Other**
-
-&nbsp;&nbsp;Tailwindcss&nbsp;&nbsp;Konva.js&nbsp;&nbsp;Chart.js&nbsp;&nbsp;Objection.js&nbsp;&nbsp;React-Query&nbsp;&nbsp;Redux&nbsp;&nbsp;Axios&nbsp;&nbsp;Linux&nbsp;&nbsp;&nbsp;VPS servers (Microsoft Azure, AWS)
+&nbsp;&nbsp;Tailwindcss&nbsp;&nbsp;Konva.js&nbsp;&nbsp;Chart.js&nbsp;&nbsp;Knex.js&nbsp;&nbsp;React-Query&nbsp;&nbsp;Redux&nbsp;&nbsp;Axios&nbsp;&nbsp;Linux&nbsp;
 
 
 
-&nbsp;
 
 
 ## **Education**
@@ -139,10 +127,7 @@
 
 
 
-[linkedin.com/in/chamikaratdp](https://www.linkedin.com/in/chamikaratdp)
+## You can also find me on
 
 
-[github.com/chamikaratdp](https://github.com/chamikaratdp)
-
-
-[x.com/chamikaratdp](https://x.com/chamikaratdp)
+[linkedin](https://www.linkedin.com/in/chamikaratdp) &nbsp;&nbsp; [github](https://github.com/chamikaratdp) &nbsp;&nbsp; [x(twitter)](https://x.com/chamikaratdp)
