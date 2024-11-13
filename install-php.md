@@ -61,4 +61,9 @@ php:7.4-alpine
 ### Install extensions
 docker-php-ext-install [ext]
 
+```
+docker-php-ext-install pdo_mysql mysqli
+```
+
+
 [php docker img](https://hub.docker.com/_/php)
