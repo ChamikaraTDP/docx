@@ -1,7 +1,7 @@
 # **Pramuditha Chamikara**
 
 
-### [chamikaratdp@gmail.com](mailto:chamikaratdp@gmail.com) &nbsp;&nbsp; [+94719939729](tel:+94719939729) &nbsp;&nbsp; Kalutara, Sri Lanka &nbsp;&nbsp;[chamikaratdp.com](https://chamikaratdp.com)
+### [chamikaratdp@gmail.com](mailto:chamikaratdp@gmail.com) &nbsp;&nbsp; [+94719939729](tel:+94719939729)  &nbsp;&nbsp;[chamikaratdp.com](https://chamikaratdp.com) &nbsp;&nbsp; Kalutara, Sri Lanka
 
 
 
@@ -11,34 +11,38 @@
 
 *Software Engineer &nbsp;&nbsp;  Jun 2023-Dec 2023*
 
-- Develop financial widgets for web and mobile to work as part of an overall Financial Market Data and Trading platform.
-- Build advanced analytics widgets for Crypto Research Data Terminal.
-- Develop upgrades to Xinfinit HTML5 application builder framework.
-- Work closely with other team members, including software engineers, QA engineers and Project mangers to deliver high-quality software solutions.
-- Maintain productivity and creativity through Scrum methodologies.
+- Re-wrote Xinfinit application framework to use in mobile application development with React-Native and Typescript.  
+- Upgraded the mobile application framework to integrate with existing backend which serves dynamic widgets.
+- Implemented sophisticated trading platform tools using SVG and Highcharts library.
+- Developed financial widgets for web and mobile to work as part of an overall Financial Market Data and Trading platform.
+
+[xinfinit.com](https://www.xinfinit.com/)
 
 
 ### **OnCoor Inc**
 
 *Full-Stack Developer &nbsp;&nbsp;  Aug 2021-Jun 2023*
 
-- Implement UI components based on the designs provided, for various configuration pages in order to manage important system assets.
-- Create complex 2D graphic widgets using HTML canvas and Konva.js for Data Pipeline management.
-- Develop reusable CURD services which improves code quality, maintainability and leads to saved time and effort.
-- Implement scheduling services for automatic job scheduling and execution.
-- Collaborate with Design team and QA engineers to deliver high quality software solutions.
+- Implemented UI components based on the designs for various configuration pages in order to manage important system assets.
+- Created complex 2D graphic widgets using HTML canvas and Konva.js for Data Pipeline management.
+- Developed reusable CURD services which improves code quality, maintainability and leads to saved time and effort.
+- Implemented scheduling services for automatic job scheduling and execution.
+- Performed automated end-to-end user testing with WebdriverIO
+
+[oncoor.com](https://oncoor.com/)
 
 
 ### **IT Division, Department of Fisheries and Aquatic Resources**
 
 *Information Technology Officer - Intern &nbsp;&nbsp;  Jan 2020-Jun 2020*
 
-- Design and develop an Inventory management system. which keep track of all the goods in the department and make the delivery process to and from the head office in Colombo and divisional offices throughout the country much easier.
-- Fix bugs and carry out updates of software products provided by the department in order continue operation of services like, Fishermen and boat registration, Crew management and guidance, Training and support for using technical equipment, Location and weather monitoring.
-- Maintain and manage on-site server clusters which were running windows server.
-- Conduct training and knowledge transfer sessions to give hands-on experience and understanding about software products.
+- Designed and developed an Inventory management system. Which keep track of all the goods in the department and make the delivery process to and from the head office  and divisional offices throughout the country much easier.
+- Fixed bugs and carried out updates of software products provided by the department.
+- Maintained and managed on-site server clusters which were running on windows servers.
+- Conducted training and knowledge transfer sessions to give hands-on experience to use software products.
 - Discuss and collaborate with the team of IT officers to understand new requirements.
 
+[fisheriesdept.gov.lk](https://www.fisheriesdept.gov.lk/)
 
 
 
@@ -47,12 +51,13 @@
 
 ### **Hupe**
 
-- Work with the frontend team to deliver pixel perfect UI elements and seamless responsiveness using Tailwindcss and Next.js
-- Integrate various different wearable devices into the system to gather data and visualize them in an appealing manner with RestAPIs, Chart.js and HTML Canvas.
-- Revamp user registration and login process which significantly increased user experience.
-- Optimize images and increase overall application performance.
+- Worked with the frontend team to deliver pixel perfect UI elements and seamless responsiveness using Tailwindcss and Next.js
+- Integrated various different wearable devices into the system to gather data and visualize them in an appealing manner with RestAPIs, Chart.js and HTML Canvas.
+- Revamped user registration and login process which significantly increased user experience.
+- Optimized images and UI components to increase overall application performance.
 
 [hupe.life](https://hupe.life)
+
 
 
 ### **Sujatha's Anthurium**
@@ -62,7 +67,6 @@
 - Improve site load times using image optimizations and static-site rendering.
 - Enhance site discoverability using search engine optimization techniques.
 - Nginx server setup and maintenance on AWS Virtual Private Server.
-- Making the plants and flowers much more appealing to visitors and boost sales with enhanced online presence.
 
 
 [sujathasanthurium.com](https://sujathasanthurium.com)
@@ -77,9 +81,9 @@
 
 *Computer Society - University of Jaffna &nbsp;&nbsp; Jun 2020-May 2021*
 
-- Update and maintain computer society website
-- Produce designs and image content for flyers and magazines
-- Organize, delegate relevant tasks to society members
+- Updated and maintained computer society website and social media pages.
+- Organized new events and handed over relevant tasks to society members.
+- Produced designs and image content for flyers and magazines.
 
 
 
@@ -135,34 +139,10 @@
 
 
 
-
-
-## **Reference**
----
-
-### **Jamir Shaikh**
-
-*Founder & CEO, OnCoor Inc*
-
-[jamir.shaikh@oncoor.com](mailto:jamir.shaikh@oncoor.com)
-
-[linkedin.com/in/jamir-shaikh](https://www.linkedin.com/in/jamir-shaikh-471661)
-
-
-
-
-
-## You can also find me on
----
-
-### LinkedIn
-
 [linkedin.com/in/chamikaratdp](https://www.linkedin.com/in/chamikaratdp)
 
-### GitHub
 
 [github.com/chamikaratdp](https://github.com/chamikaratdp)
 
-### X
 
 [x.com/chamikaratdp](https://x.com/chamikaratdp)
